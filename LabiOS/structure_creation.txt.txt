@@ -1,0 +1,6 @@
+cd~
+mkdir LabLinux
+cd LabLinux
+mkdir -p projects/project1/data projects/project2 documents/reports documents/ notes scripts results
+ls -l
+ls -R
